@@ -42,8 +42,8 @@
 ## Скриншоты
 
 <center>
-    <em>(<img width="2119" height="1206" alt="image" src="https://github.com/user-attachments/assets/9a08a711-88e0-4aec-b9c5-d1a8404d337a" />
-)</em>
+    <em><img width="2119" height="1206" alt="image" src="https://github.com/user-attachments/assets/9a08a711-88e0-4aec-b9c5-d1a8404d337a" />
+</em>
 </center>
 
 ## Ссылки
