@@ -47,4 +47,4 @@
 </center>
 
 ## Ссылки
-- Видео с геймплеем:
+- Видео с геймплеем: https://rutube.ru/video/private/e246b788ad8485817e3261bd7ed74a00/?p=EjwIVCPxn1Tu5ZgrFzyOmg
